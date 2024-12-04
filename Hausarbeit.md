@@ -8,6 +8,8 @@
 
 ## Die Entwicklung der Transistoren 
 
+
+## Die Entiwcklung der Integrierten Schaltkreise 
 ## Zusammenfassung
 
 ## Literatur 
