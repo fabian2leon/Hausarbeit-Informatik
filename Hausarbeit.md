@@ -4,7 +4,7 @@
 
 ## Die ersten Computer bis 1945
 
-Konrad Zuse
+Konrad Zuse!
 
 ## Die Entwicklung der Röhren-Computer
 
