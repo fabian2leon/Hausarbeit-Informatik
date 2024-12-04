@@ -8,10 +8,8 @@
 
 ## Die Entwicklung der Transistoren 
 
+
 ## Die Entiwcklung der Integrierten Schaltkreise 
-
-## Die Zeit der mobilen Endgeräte 
-
 ## Zusammenfassung
 
 ## Literatur 
